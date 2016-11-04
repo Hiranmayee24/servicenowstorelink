@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_report_color">
+    <sys_report_color action="INSERT_OR_UPDATE">
+        <color/>
+        <display>background-color:</display>
+        <name/>
+        <sys_class_name>sys_report_color</sys_class_name>
+        <sys_created_by>hiran</sys_created_by>
+        <sys_created_on>2016-11-04 12:16:42</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3f4954cf0ff66200c2b487ece1050ede</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Now Store Link" source="x_10299_service_no">7a58548f0ff66200c2b487ece1050eee</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Service Now Store Link">7a58548f0ff66200c2b487ece1050eee</sys_scope>
+        <sys_update_name>sys_report_color_3f4954cf0ff66200c2b487ece1050ede</sys_update_name>
+        <sys_updated_by>hiran</sys_updated_by>
+        <sys_updated_on>2016-11-04 12:16:42</sys_updated_on>
+    </sys_report_color>
+</record_update>
